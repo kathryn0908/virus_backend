@@ -1,0 +1,8 @@
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.csprojAssemblyReference.cache
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.AssemblyInfoInputs.cache
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.AssemblyInfo.cs
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.csproj.CoreCompileInputs.cache
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.MvcApplicationPartsAssemblyInfo.cs
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.RazorAssemblyInfo.cache
+/Users/katie/C_sharp/virus_backend/virus_mvc/obj/Debug/netcoreapp3.1/virus_mvc.RazorAssemblyInfo.cs
